@@ -1,4 +1,4 @@
-# Page For CrossPost-Auth setup
+# Page For n-a-Blacklister setup
 
 
 ## Install
