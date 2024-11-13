@@ -5,7 +5,7 @@ Last updated October 17, 2024
 This Privacy Notice for n-a-blacklister ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
   
 -  Visit our website at https://developers.reddit.com/apps/n-a-blacklister, or any website of ours that links to this Privacy Notice
--  n-a-Blacklister remove Links abd post from users.
+-  n-a-Blacklister remove Links and post from users.
 -  Uses Devvit to control the allowance of Domains with in a subreddit.
 
 Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services.
