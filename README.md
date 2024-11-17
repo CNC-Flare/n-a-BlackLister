@@ -1,4 +1,4 @@
-# Page For n-a-Blacklister setup
+# Page For n-a-Blacklister setup [ NAME PENDING ] 
 
 
 ## Install
@@ -18,3 +18,8 @@
 ```
 
 ## Enjoy
+
+
+## **NOTICES
+- As of right now n-a-Blacklister can only Read urls with-in the Body and Title of a comment or post.
+    - n-a-Blacklister *can* read the url of a post but this feature is expermental and breaks often.
